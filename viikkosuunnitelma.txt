@@ -1,0 +1,41 @@
+Petteri
+29.9. - 4.10.
+:Aion opiskella itsenäisesti MOOCissa Pythonin jatkokurssia eteenpäin.
+Projektin suhteen yritän löytää keinon saada JS ja Python juttelemaan toisilleen. Flask?
+Jos kukaan muu ei tahdo ottaa asiaa kontolleen, aloitan alustavan projektisuunnitelman
+kirjaamisen.
+	Tulos: Tavoitteet saavutettu (Flaskin ja JS yhdistämistä lukuunottamatta).
+		Miron kanssa mietimme yhdessä Projektisuunnitelmaa ja lopulta tein siitä
+		koosteen.
+
+6.10. - 10.10.
+: Otan tehtäväkseni (ellei Miro ole nopeampi!) ratkaista kuinka Flaskin saa juttelemaan
+JavaScriptille ja siirtämään dataa edes alkeellisella tasolla. Yritän samalla opetella
+GITissä branchien käyttöä.
+	Tulos: Tavoitteet saavutettu
+
+12.10. - 17.10.
+: Opiskele ja tutki SQL:ää. Yritä saada se liitettyä projektiin.
+	Tulos:  Päädyin lopulta jättämään SQL:n muiden murheeksi. Itse päädyin tekemään
+		kokeiluja Google Firestore Databasen kanssa. Aloin luomaan sen avulla
+		vaihtoehtoista versiota, jos SQL osoittautuu liian hankalaksi projektiimme.
+
+19.10. - 24.10.
+: Väliaikaesittely lähestyy. Aion väkertää FireStoren parissa projektiimme liityen, toivottavasti yksinkertaisen databasen luoden. Sen jälkeen ollaan jo pitkällä.
+	Tulos: Piece of cake. Firestore jäi tosin taustalle odottamaan mahdollista käyttöä, 	SQL:n ollessa vaihtoehto nro 1.
+
+26.10. - 31.10.
+: Projektin esittelyyn valmistautumista, itsenäistä opiskelua ja jatkon suunnittelua.
+	Tulos: Totesimme että saamme laitettua varmaan SQL:n FireStoreen. Näin emme tarvitse 	omaa konetta aina auki serverinä. Mutta se ei ole ajankohtaista vielä. Teimme vähän 		seuraavien viikkojen työnjakoa.
+
+2.11. - 7.11.
+: Projektin esittely oli mieltä avartava välietappi, joka toi konkreettisuutta projektin nykytilaan. Projekti on hyvässä vaiheessa, mutta kiirettä tuskin voi välttää. Jos tällä viikolla Miro saa SQL:n suurinpiirtein toimintakuntoon, pääsen henkilökohtaisesti ensi viikolla taas kunnolla hommiin.
+	Tulos: SQL yhdistetty projektiin.
+
+9.11. - 14.11.
+: Projekti tarkoitus saada valmiiksi. Kyseessä lähinnä SQL:n toimintojen saumaton yhdistäminen FrontEndiin. Haku-toiminnon ja pienten valinnaisten tilpehöörien koodaaminen.
+	Tulos: Projekti eteni vain marginaalisesti SQL:n ongelmien takia.
+
+16.11. - 23.11.
+: Vihdoinkin projekti loppuun. Haku-toiminnon ja poistopainikkeiden tekeminen.
+	Tulos: Success! Ominaisuudet tehty. SQL:n yhdistäminen Flaskin kautta JavaScriptiin 	ei ollut varsinaisesti helppo etappi, mutta ratkesi lopulta.

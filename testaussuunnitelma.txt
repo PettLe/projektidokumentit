@@ -1,0 +1,5 @@
+Alustava tapa testata sovelluksen toimintoa on manuaalisesti käyttää sekä Pythonin print()-komentoa, että JavaScriptin console.log()-komentoa.
+Ensin mainitulla pystytään terminaalissa testaamaan pystyykö Flask vastaanottamaan JSON-dataa jota JavaScript lähettää front endistä.
+Console.logilla pystytään testaamaan yltääkö haluttu data web-selaimeen asti.
+
+Soitintietokantaa testataan kovakoodaamalla valmiiseen sanakirjaan soittimia.
